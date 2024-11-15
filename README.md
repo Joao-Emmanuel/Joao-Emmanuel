@@ -1,5 +1,8 @@
 ### Olá, sou João Emmanuel 👋
 
+sempre transformando problemas em soluções... no código é claro!
+
+<br/>
 
 ## Tecnologias que usso no dia a dia
 <div style="display: inline_block"><br/>
